@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "nafanya",
+  "wake_word": "нафаня",
   "author": "fwartner",
   "model": "https://github.com/fwartner/home-assistant-wakewords-collection/raw/main/ru/nafanya/nafanya.tflite",
   "version": 2,
