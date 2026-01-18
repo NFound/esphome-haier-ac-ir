@@ -1,8 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "nafanya",
+  "wake_word": "нафаня",
   "author": "fwartner",
-  "model": "https://github.com/NFound/esphome-haier-ac-ir/raw/refs/heads/master/nafanya.tflite",
+  "model": "https://github.com/fwartner/home-assistant-wakewords-collection/raw/main/ru/nafanya/nafanya.tflite",
+  "trained_languages": ["ru"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
