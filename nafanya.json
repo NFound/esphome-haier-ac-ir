@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "nafanya",
   "author": "fwartner",
-  "model": "https://github.com/fwartner/home-assistant-wakewords-collection/raw/main/ru/nafanya/nafanya.tflite",
+  "model": nafanya.tflite
   "trained_languages": ["ru"],
   "version": 2,
   "micro": {
