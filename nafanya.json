@@ -6,10 +6,10 @@
   "trained_languages": ["ru"],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.97,
-    "sliding_window_size": 5,
+    "probability_cutoff": 0.68,
+    "sliding_window_size": 4,
     "feature_step_size": 10,
-    "tensor_arena_size": 2000,
-    "minimum_esphome_version": "2024.10"
+    "tensor_arena_size": 22860,
+    "minimum_esphome_version": "2024.7.0"
   }
 }
